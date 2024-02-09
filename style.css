@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.website_name{
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+}
+.content_section{
+    display: flex;
+}
+.menu{
+    height: 600px;
+    background-color: #F9BDC0;
+    width: 25%;
+    text-align: center;
+
+}
+.content_area{
+    height: 600px;
+    background-color: #6DECE0;
+    width: 50%;
+    text-align: center;
+
+}
+.advt{
+    height: 600px;
+    background-color: #FBE698;
+    width: 25%;
+    text-align: center;
+    
+}
+.footer{
+    height: 100px;
+    background-color: #FA26A0;
+    
+}
